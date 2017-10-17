@@ -4,8 +4,8 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-#define wifi_ssid "NachtDesWissens"
-#define wifi_password "androidapp"
+#define wifi_ssid "SSID"
+#define wifi_password "PW"
 
 #define mqtt_server "192.168.11.8"
 
